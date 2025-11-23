@@ -22,8 +22,6 @@
 
 Software Engineer with expertise in full-stack development and competitive programming. Experienced in building scalable applications using modern frameworks and implementing clean architecture patterns. Proficient in multiple programming paradigms with a strong foundation in data structures, algorithms, and system design.
 
-**Current Focus:** Developing AI-powered solutions leveraging Model Context Protocol and building production-grade mobile applications with Flutter.
-
 <br>
 
 ## Technical Expertise
@@ -87,16 +85,6 @@ Development Practices:
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiverse07&theme=github_dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
-
-<br>
-
-## Problem Solving
-
-Actively engaged in competitive programming with 450+ problems solved across various difficulty levels. Experienced in algorithmic problem-solving, optimization techniques, and efficient code implementation.
-
-**Platform:** LeetCode | **Peak Rating:** 1593
-
-<br>
 
 ## Connect
 
