@@ -1,7 +1,5 @@
 ![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
 
-![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
-
 <div align="center">
   
   # Aditya Kale
