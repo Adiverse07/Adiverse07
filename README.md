@@ -1,1 +1,1 @@
-![My 3D profile](./profile-3d-contrib/profile-green-animate.svg)
+![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
