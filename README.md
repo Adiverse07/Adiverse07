@@ -1,5 +1,7 @@
 ![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
 
+![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
+
 <div align="center">
   
   # Aditya Kale
@@ -81,11 +83,11 @@ Development Practices:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adiverse07&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adiverse07&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </div>
 
 <div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiverse07&theme=github_dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiverse07&theme=github_dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 <br>
