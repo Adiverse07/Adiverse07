@@ -8,7 +8,7 @@
   
   ### Full Stack Developer | Competitive Programmer | AI Integration Specialist
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Specialized+in+Flutter+%26+React;450%2B+Problems+Solved;MCP+%7C+Clean+Architecture+%7C+MVVM" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;DSA+Enthusiast;Deep+Learning;Full+Stack+Developer;Competitive+Programmer;MCP+%7C+Clean+Architecture+%7C+MVVM" alt="Typing SVG" />
   
 </div>
 
