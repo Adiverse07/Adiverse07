@@ -1,4 +1,6 @@
-![My 3D profile](./profile-3d-contrib/profile-night-view.svg)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="700">
+</div>
 
 <div align="center">
   
