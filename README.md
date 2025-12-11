@@ -94,7 +94,3 @@ Development Practices:
 </div>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Adiverse07&style=flat-square&color=58a6ff)
-  
-</div>
