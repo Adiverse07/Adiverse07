@@ -81,12 +81,42 @@ Development Practices:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adiverse07&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Adiverse07&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  
 </div>
 
+<br>
+
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiverse07&theme=github_dark&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiverse07&theme=github_dark" alt="Profile Details" />
+  
 </div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Stats and Languages Side by Side -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adiverse07&theme=github_dark" alt="Stats" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adiverse07&theme=github_dark" alt="Top Languages" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <!-- Productive Time and Repos Per Language -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adiverse07&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adiverse07&theme=github_dark" alt="Repos Per Language" />
+  
+</div>
+
+<br>
 
 ## Connect
 
